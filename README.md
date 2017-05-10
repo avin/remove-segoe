@@ -1,4 +1,4 @@
-# Remove Segoe fonts for Windows 10
+# Remove Segoe fonts for Windows
 
 Run `install.sh` to replace *Segoe* fonts family with *Verdana*. Use `uninstall.reg` to rollback.
 
